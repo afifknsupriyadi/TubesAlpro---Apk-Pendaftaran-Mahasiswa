@@ -1,0 +1,56 @@
+Informatika A 40
+Sistem_Informasi B 30
+Data_Sains B 30
+Teknik_Telekomunikasi A 40
+Teknik_Elektro A 30
+Teknik_Biomedis B 30
+Teknik_Industri A 4
+Teknik_Kimia B 30
+Teknik_Fisika B 30
+
+
+Afif 93 93 91 92 Informatika
+Farhan 93 91 92 91 Teknik_Industri
+Mawar 90 83 82 82 Informatika
+Maudy 83 91 82 84 Teknik_Telekomunikasi
+Lalisa 92 94 92 91 Informatika
+Gina 92 91 94 93 Teknik_Industri
+David 88 90 87 89 Teknik_Telekomunikasi
+Fajar 89 90 88 92 Teknik_Biomedis
+Umi 82 81 80 85 Data_Sains
+Vina 93 92 90 91 Teknik_Telekomunikasi
+Eka 83 81 84 85 Teknik_Elektro
+Lila 92 91 90 94 Sistem_Informasi
+Oki 89 88 87 90 Teknik_Biomedis
+Ira 83 85 81 82 Teknik_Kimia
+Rizky 90 88 89 86 Teknik_Fisika
+Budi 83 85 82 81 Informatika
+Yanto 94 92 93 91 Teknik_Industri
+Dodi 80 82 85 83 Data_Sains
+Sandy 87 85 83 82 Informatika
+Bella 90 92 91 88 Sistem_Informasi
+Cici 91 92 90 88 Sistem_Informasi
+Wira 84 85 86 80 Teknik_Elektro
+Hanna 94 92 91 93 Teknik_Industri
+Rama 85 84 86 83 Teknik_Kimia
+Joko 86 83 85 82 Informatika
+Fira 85 84 83 86 Teknik_Elektro
+Mira 80 82 84 81 Data_Sains
+Nando 90 92 91 93 Teknik_Telekomunikasi
+Adam 85 88 86 89 Informatika
+Lina 80 82 83 85 Data_Sains
+Zara 85 83 82 80 Teknik_Kimia
+Tesa 91 90 88 92 Sistem_Informasi
+Andy 90 88 87 86 Teknik_Fisika
+Jaya 90 88 86 85 Teknik_Fisika
+Cindy 82 85 84 82 Data_Sains
+Ola 82 80 85 86 Teknik_Elektro
+Nanda 84 82 86 80 Teknik_Elektro
+Eko 92 91 90 92 Teknik_Telekomunikasi
+Kiki 90 92 88 89 Sistem_Informasi
+Indra 91 90 92 89 Teknik_Fisika
+Gilang 88 89 87 88 Teknik_Biomedis
+Qiqi 85 84 83 82 Teknik_Kimia
+Miko 92 91 90 93 Teknik_Telekomunikasi
+Putri 92 94 91 93 Teknik_Industri
+Krisna 85 83 85 82 Informatika

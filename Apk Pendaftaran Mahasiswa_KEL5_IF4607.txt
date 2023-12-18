@@ -1,0 +1,16 @@
+APLIKASI PENDAFTARAN MAHASISWA - Kelompok 5
+
+Anggota Kelompok:
+1. Afif Kurniawan Supriyadi - 1301223161
+2. Mohammad Faiz Haikal - 1301223318
+
+Peran Anggota:
+1. Afif:
+- Membuat program penambahan data jurusan dan mahasiswa
+- Membuat program edit & delete data jurusan dan mahasiswa
+- Membuat program pengurutan data
+
+2. Haikal:
+- Membuat program pencarian data
+- Membuat program untuk user mahasiswa
+
